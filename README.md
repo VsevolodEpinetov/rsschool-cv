@@ -1,1 +1,1 @@
-Hi! It's a small Readme file that I've created so the repository didn't look so empty
+https://vsevolodepinetov.github.io/rsschool-cv/
